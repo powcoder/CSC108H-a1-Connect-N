@@ -1,0 +1,7 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+invalid-name:10::"Constant name ""aaa"" doesn't conform to UPPER_CASE naming style"
+invalid-name:14::"Constant name ""time"" doesn't conform to UPPER_CASE naming style"
+invalid-name:30:a:"Function name ""a"" doesn't conform to snake_case naming style"

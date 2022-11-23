@@ -1,0 +1,8 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+non-iterator-returned:76:FirstBadIterator.__iter__:__iter__ returns non-iterator
+non-iterator-returned:82:SecondBadIterator.__iter__:__iter__ returns non-iterator
+non-iterator-returned:88:ThirdBadIterator.__iter__:__iter__ returns non-iterator
+non-iterator-returned:94:FourthBadIterator.__iter__:__iter__ returns non-iterator

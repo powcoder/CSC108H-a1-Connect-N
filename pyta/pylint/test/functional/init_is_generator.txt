@@ -1,0 +1,5 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+init-is-generator:4:SomeClass.__init__:__init__ method is a generator

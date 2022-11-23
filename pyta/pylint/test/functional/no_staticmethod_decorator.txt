@@ -1,0 +1,7 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+no-staticmethod-decorator:14:MyClass:Consider using a decorator instead of calling staticmethod
+no-staticmethod-decorator:17:MyClass:Consider using a decorator instead of calling staticmethod
+no-staticmethod-decorator:25:MyClass:Consider using a decorator instead of calling staticmethod

@@ -1,0 +1,10 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+no-method-argument:12:MyClass.method:Method has no argument
+no-method-argument:14:MyClass.met:"""Method has no argument
+""
+"
+no-method-argument:15:MyClass.setup:Method has no argument
+undefined-variable:17:MyClass.setup:Undefined variable 'self'

@@ -1,0 +1,8 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+unpacking-in-except:7:new_style:Implicit unpacking of exceptions is not supported in Python 3
+redefine-in-handler:10:new_style:Redefining name 'new_style' from outer scope (line 3) in exception handler
+redefine-in-handler:10:new_style:Redefining name 'tuple' from builtins in exception handler
+unpacking-in-except:10:new_style:Implicit unpacking of exceptions is not supported in Python 3

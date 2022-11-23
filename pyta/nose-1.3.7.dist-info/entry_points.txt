@@ -1,0 +1,11 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+[console_scripts]
+nosetests = nose:run_exit
+nosetests-3.4 = nose:run_exit
+
+[distutils.commands]
+nosetests = nose.commands:nosetests
+

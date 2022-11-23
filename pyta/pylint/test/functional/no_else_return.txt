@@ -1,0 +1,9 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+no-else-return:6:foo1:Unnecessary "else" after "return"
+no-else-return:15:foo2:Unnecessary "elif" after "return"
+no-else-return:27:foo3:Unnecessary "else" after "return"
+no-else-return:29:foo3:Unnecessary "else" after "return"
+no-else-return:66:bar4:Unnecessary "else" after "return"

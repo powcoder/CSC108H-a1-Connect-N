@@ -1,0 +1,6 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+useless-super-delegation:21:UselessSuper.useless:Useless super delegation in method 'useless'
+useless-super-delegation:34:Ham.__init__:Useless super delegation in method '__init__'

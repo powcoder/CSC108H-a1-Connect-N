@@ -1,0 +1,13 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+[console_scripts]
+isort = isort.main:main
+
+[distutils.commands]
+isort = isort.main:ISortCommand
+
+[pylama.linter]
+isort = isort.pylama_isort:Linter
+

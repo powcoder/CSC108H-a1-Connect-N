@@ -1,0 +1,8 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+used-before-assignment:11:Well.<lambda>:Using variable 'revattr' before assignment
+undefined-variable:13:Well.<lambda>:Undefined variable 'get_attr_bad'
+undefined-variable:19:Well.Sub:Undefined variable 'Data'
+undefined-variable:22:Well.func:Undefined variable 'Sub'

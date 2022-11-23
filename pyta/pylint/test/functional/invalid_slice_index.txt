@@ -1,0 +1,9 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+invalid-slice-index:10:function1:Slice index is not an int, None, or instance with __index__
+invalid-slice-index:10:function1:Slice index is not an int, None, or instance with __index__
+invalid-slice-index:14:function2:Slice index is not an int, None, or instance with __index__
+invalid-slice-index:14:function2:Slice index is not an int, None, or instance with __index__
+invalid-slice-index:23:function3:Slice index is not an int, None, or instance with __index__
